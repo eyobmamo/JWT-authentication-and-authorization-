@@ -1,2 +1,2 @@
 # JWT-authentication-and-authorization-
-I implement this to understand JWT authentication and Authorization  and the concept of  middleware 
+I implement this to understand JWT authentication and Authorization  and the concept of  middleware in go
